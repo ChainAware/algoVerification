@@ -66,3 +66,11 @@ A `.log` file is written alongside the output CSV with the full run log.
 ## Resume
 
 If the run is interrupted it can be restarted with the same command. Addresses already present in the output CSV are skipped automatically, so the run continues from where it stopped.
+
+## Further Reading
+
+- [Fraud Detector Guide](https://chainaware.ai/blog/chainaware-fraud-detector-guide/) — How `predictive_fraud` works: inputs, outputs, thresholds, and use cases
+- [$284M+ Rug Pulls on PancakeSwap V2](https://chainaware.ai/blog/rugpull-detector-v3-pancakev2-2026/) — Real-world accuracy benchmark: 90.1% detection rate across 103,695 rug pull events
+- [Token Audit: 10,000 CoinGecko Token Results](https://chainaware.ai/blog/token-audit-10000-coingecko-results/) — 55% HIGH RISK; 127 automated checks via `run_token_audit`
+- [Token Audit at Scale: 15,000 EVM Tokens](https://chainaware.ai/blog/token-audit-15000-coingecko-coinmarketcap-2026/) — 57.7% HIGH RISK across CoinGecko + CoinMarketCap tokens
+- [Complete Product Guide](https://chainaware.ai/blog/chainaware-ai-products-complete-guide/) — Overview of all ChainAware tools, networks, and coverage
