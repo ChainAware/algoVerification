@@ -74,3 +74,6 @@ If the run is interrupted it can be restarted with the same command. Addresses a
 - [Token Audit: 10,000 CoinGecko Token Results](https://chainaware.ai/blog/token-audit-10000-coingecko-results/) — 55% HIGH RISK; 127 automated checks via `run_token_audit`
 - [Token Audit at Scale: 15,000 EVM Tokens](https://chainaware.ai/blog/token-audit-15000-coingecko-coinmarketcap-2026/) — 57.7% HIGH RISK across CoinGecko + CoinMarketCap tokens
 - [Complete Product Guide](https://chainaware.ai/blog/chainaware-ai-products-complete-guide/) — Overview of all ChainAware tools, networks, and coverage
+- [Fraud Detection Docs](https://chainaware.ai/learn/for-individuals/fraud-detector.html) — How the fraud detector works, what the score means, and how to interpret results
+- [AML & KYC Compliance](https://chainaware.ai/learn/use-cases/aml-kyc-compliance.html) — AML screening, MiCA obligations, and transaction monitoring use cases
+- [Prediction MCP](https://chainaware.ai/learn/prediction-mcp/) — Full tool reference for predictive_fraud and all 14 MCP tools
